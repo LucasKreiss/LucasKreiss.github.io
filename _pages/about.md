@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a 2023 Marie Skłodowska-Curie Fellow, [Postdoc at Duke University](https://horstmeyer.pratt.duke.edu/people/lucas-kreiss) and Habilitation candidate at Friedrich-Alexander University (FAU) Erlangen in Germany. 
+I am a [Marie Skłodowska-Curie Global Fellow](https://marie-sklodowska-curie-actions.ec.europa.eu/news/marie-sklodowska-curie-actions-award-eu257-million-to-postdoctoral-fellows-in-2022), a [Postdoc at Duke University](https://horstmeyer.pratt.duke.edu/people/lucas-kreiss) and an [Habilitation candidate at Friedrich-Alexander University (FAU) Erlangen in Germany](https://www.mbt.tf.fau.de/). 
 
-, working with Profs. Laura Waller and Hillel Adesnik. Before that, I was a postdoc (with Prof. Roarke Horstmeyer) and PhD student (with Profs. Joseph Izatt, Warren Warren, and Sina Farsiu) at Duke University, where my research was supported in part by an NSF Graduate Research Fellowship.
+Before that, I was a Postdoc (2021-2022) and PhD student (2017-2021) at FAU, where my research was supported by the [Erlangen Graduate School of Advanced Optical Technologies](https://www.saot.fau.de/) and the [Collaborative Research Center "Immune-Epithelial Communication in Inflammatory Bowel Diseases" (TRR241)](https://transregio241-en.webspace.rrze.de/).
 
-My research interests are broadly in computational imaging, coherent (and incoherent) optical imaging, tomographic reconstruction algorithms, inverse problems, and machine learning. I have particular experience with optical coherence tomography (OCT), camera array-based microscopy, Fourier ptychography, diffraction tomography, and nonlinear microscopy, but I’m always open to exploring and applying computational optimization techniques to other forms of imaging!
+My research interests are broadly in label-free optical technologies, i.e., methods that are based on the natural interaction between light and biological samples), as well as computational tools and machine learning to extract meaningful information for biomedical applications. I have particular experience with nonlinear multiphoton imaging, Raman spectroscopy, Diffuse Correlation Spectroscopy (DCS) and Digital Staining. My research is usually very interdisciplinary with applications for Inflammatory Bowel Diseases (IBD), Muscle tissue or cognitivie neuroscience.
 
-Prior to Duke, I graduated from Yale University in 2015 with a BS in biomedical engineering, where I was introduced to the world of optical imaging. In particular, I did some research involving OCT with Prof. Michael Choma and multiphoton microscopy with Prof. Michael Levene. I’ve also dabbled a bit in historical linguistics with Prof. Claire Bowern, applying computational techniques and Bayesian statistics to study language evolution.
+I teach [Optical Technologies in Life Sciences]() and [Bioanalytik]() at FAU in Germany, and act as as Adjunct Instructor in Prof. Horstmeyers course [Machine Learning and Imaging](https://deepimaging.github.io/syllabus/) at Duke.
+
+Prior to Duke, I graduated from FAU in 2014 with a B.Sc. in medical engineering and then in 2016 with a M.Sc. in [Advanced Optical Technologies](https://www.maot.studium.fau.de/), where I was introduced to the world of optics and acted as student representative and as President of the local SPIE student chapter. 
