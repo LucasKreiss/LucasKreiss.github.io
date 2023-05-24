@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: ""
-permalink: /research/
+title: "Awards and Grants"
+permalink: /awards/
 author_profile: true
 redirect_from:
   - /resume
