@@ -2,15 +2,18 @@
 main:
   - title: "Lucas Kreiss"
     url: /
+    
+  - title: "Research"
+    url: /research/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Awards"
-    url: /awards/
-
   - title: "Conferences"
     url: /talks/    
+
+  - title: "Awards"
+    url: /awards/
 
   - title: "Teaching"
     url: /teaching/    
