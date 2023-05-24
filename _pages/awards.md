@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# Grants
+### Grants
 
 | :----------- | :------------ | :------------ |
 | *02/2023*     |   **EU HORIZON Marie Skłodowska-Curie Actions Global Fellowship** (MSCA-2022-PF)     |    192,125€ for 2 years, 100% total score for project proposal, 17.5% overall acceptance rate of the call  |
@@ -17,7 +17,7 @@ redirect_from:
 | *07/2021*     |   **Emerging Talents Initiative** (ETI)     |    15,000€ for 1 year  |
 
 
-# Awards
+### Awards
 
 | :----------- | :------------ | :------------ |
 | *11/2022*     |   **Best Doctorate at Technical Faculty**     |    Gruppe d. Alumni Technische Fakultät Erlangen e.V.; 1,500€  |
