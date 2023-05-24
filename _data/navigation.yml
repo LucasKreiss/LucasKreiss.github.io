@@ -5,9 +5,12 @@ main:
     
   - title: "Research"
     url: /research/
+    
+  - title: "Teaching"
+    url: /teaching/
 
-  - title: "Publications"
-    url: /publications/
+  #- title: "Publications"
+  #  url: /publications/
 
   - title: "Conferences"
     url: /talks/    
@@ -15,5 +18,4 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Teaching"
-    url: /teaching/    
+      
