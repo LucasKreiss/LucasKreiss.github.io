@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+<br/><img src='/images/samples_hardware_software.png' style="width:500px;height:257px;">
 
-[Label-free Multiphoton Microscopy](LucasKreiss.github.io/research/mpm.md)
+## Label-free Multiphoton Microscopy
 <br/><img src='/images/MPM.png' style="width:500px;height:257px;">
+
+## Multiphoton ENDO-Microscopy
+
+## Raman Spectroscopy
+
+## Diffuse Correlation Spectroscopy
+
+## Digital staining
