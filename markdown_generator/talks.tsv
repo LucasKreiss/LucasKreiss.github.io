@@ -1,8 +1,5 @@
 title	type	url_slug	venue	date	location	talk_url	description
 Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-
-
-title	type	url_slug	venue	date	location	talk_url	description
 High-throughput imaging across multiple spatial scales with the multi-camera array microscope (MCAM)  Talk  /talks/Metrology2023  SPIE Optical Metrology 2023  2023-06-29  Munich, Germany  https://spie.org/optical-metrology/presentation/High-throughput-imaging-across-multiple-spatial-scales-with-the-multicamera/12622-54  
 Massively parallelized diffuse correlation spectroscopy for label-free measurement of blood flow in human subjects  Talk  /talks/ECBO2023  European Conferences on Biomedical Optics (ECBO) 2023  2023-06-28  Munich, Germany  https://spie.org/european-conference-on-biomedical-optics/presentation/Massively-parallelized-diffuse-correlation-spectroscopy-for-label-free-measurement-of/12628-42  
 How machine learning can support label-free analysis of inflammatory tissue remodeling using Raman spectroscopy & Multiphoton microscopy	Poster  /talks/ICCP2022  IEEE Intern. Conference on Computational Photography (ICCP) 2022	2022-08	Pasadena, California  https://iccp2022.iccp-conference.org/  
