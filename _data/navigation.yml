@@ -5,6 +5,9 @@ main:
     
   - title: "Research"
     url: /research/
+
+  - title: "The MICS project"
+    url: /MICS/
     
   - title: "Teaching"
     url: /teaching/
