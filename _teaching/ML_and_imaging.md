@@ -1,11 +1,11 @@
 ---
 title: "Associate instructor in 'Machine Learning and Imaging'"
 collection: teaching
-type: ""
-permalink: /teaching/ML_and_imaging
+type: "Exercise session"
+permalink: 
 venue: "Duke University"
-date: 01/2023
+date: 2023-01-01
 location: "Durham, USA"
 ---
 
-Read more about this course [here](https://deepimaging.github.io/syllabus/).
+Together with Kanghyun Kim and Amey Chaware, I helped Prof. Roarke Horstmeyer to teach Duke students on Machine Learning for Imaging. Read more about this course [here](https://deepimaging.github.io/syllabus/).
