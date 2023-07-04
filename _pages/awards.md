@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-### Grants
+## Awarded grants
 
 | :----------- | :------------ | :------------ |
 | *02/2023*     |   **EU HORIZON Marie Skłodowska-Curie Actions Global Fellowship** (MSCA-2022-PF)     |    192,125€ for 2 years, 100% total score for project proposal, 17.5% overall acceptance rate of the call  |
@@ -20,9 +20,8 @@ redirect_from:
 ### Awards
 
 | :----------- | :------------ | :------------ |
-| *11/2022*     |   **Best Doctorate at Technical Faculty**     |    Gruppe d. Alumni Technische Fakultät Erlangen e.V.; 1,500€  |
-| *11/2022*     |   **Honorable Mention Poster Presentation**     |    Duke Biomedical Engineering retreat; $100  |
-| *11/2022*     |   **Best Doctorate at Technical Faculty**     |    Gruppe d. Alumni Technische Fakultät Erlangen e.V.; 1,500€  |
+| *11/2022*     |   **Best Doctorate at Technical Faculty (FAU)**     |    Gruppe d. Alumni Technische Fakultät Erlangen e.V.; 1,500€  |
+| *04/2022*     |   **Honorable Mention Poster Presentation**     |    Duke Biomedical Engineering retreat; $100  |
 | *07/2021*     |   **SAOT Student Award 2021**     |    Best publication in 'Optics in Medicine'; 1,000€  |
 | *06/2021*     |   **Best Poster Presentation**     |     Vision 2030 - Changing Paradigms in IBD; 500€  |
 | *07/2020*     |   **SAOT Student Award 2020**     |    Best publication in 'Optics in Medicine'; 1,000€ shared with A. Dilipkumar |
