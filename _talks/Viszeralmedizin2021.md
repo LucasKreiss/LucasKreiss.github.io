@@ -2,7 +2,7 @@
 title: "Optical histology based on label-free multiphoton imaging allows quantification of distinct inflammatory patterns in murine colitis"
 collection: talks
 type: "Talk"
-permalink: /talks/Viszeralmedizin2021
+permalink: 
 venue: "Viszeralmedizin 2021"
 date: 2021-09-18
 location: "Online, Germany"
