@@ -1,5 +1,21 @@
 title	type	url_slug	venue	date	location	talk_url	description
-How machine learning can support label-free analysis of inflammatory tissue remodeling using Raman spectroscopy & Multiphoton microscopy	Poster	IEEE Intern. Conference on Computational Photography (ICCP) 2022	2022-08	Pasadena, California		The presented poster displayed our most recent research that was [published on May 25 2022](https://doi.org/10.1002/jbio.202200073), as well as more outlooks to future works, planned for this project. More information on the conferece is [here](https://iccp2022.iccp-conference.org/).
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+
+High-throughput imaging across multiple spatial scales with the multi-camera array microscope (MCAM)  Talk  /talks/Metrology2023  SPIE Optical Metrology 2023  2023-06-29  Munich, Germany  https://spie.org/optical-metrology/presentation/High-throughput-imaging-across-multiple-spatial-scales-with-the-multicamera/12622-54  
+
+Massively parallelized diffuse correlation spectroscopy for label-free measurement of blood flow in human subjects  Talk  /talks/ECBO2023  European Conferences on Biomedical Optics (ECBO) 2023  2023-06-28  Munich, Germany  https://spie.org/european-conference-on-biomedical-optics/presentation/Massively-parallelized-diffuse-correlation-spectroscopy-for-label-free-measurement-of/12628-42  
+
+How machine learning can support label-free analysis of inflammatory tissue remodeling using Raman spectroscopy & Multiphoton microscopy	Poster  _talks/ICCP2022  IEEE Intern. Conference on Computational Photography (ICCP) 2022	2022-08	Pasadena, California  https://iccp2022.iccp-conference.org/  
+
+Label-free Multiphoton Imagaging in Inflammatory Bowel Disease  Poster  /talks/Vision2030_2021  Vision 2030: Changing Paradigms in Inflammatory Bowel Diseases  2021-06-10  Online, Germany  https://transregio241-en.webspace.rrze.de/vision-2030-changing-paradigms-in-inflammatory-bowel-diseases-june-10th-11th-2021/  
+
+Optical histology based on label-free multiphoton imaging allows quantification of distinct inflammatory patterns in murine colitis  Talk  /talks/Viszeralmedizin2021  2021-09-18  Online, Germany  https://www.dgvs.de/fortbildung/fortbildung-aktuell/rueckblick-viszeralmedizin/  
+
+Label-free in vivo Histopathology of Experimental Colitis via Three-Channel Multiphoton Imaging  Poster  /talks/iRTG_2020  Retreat of the iRTG-TRR-241  2020-06-05  Online, Germany  https://www.transregio241.de/irtg-studenten-retreat-2020/  
+
+Label-free, Optical Technologies for Structural & Functional Analysis as well as for Automated Diagnosis of DSS colitis using Machine Learning  Poster  _talks/Tromsö2020  Workshop on Next-Generation Live-Cell Microscopy at the Arctic University of Norway  2020-02-19  Tromsø, Norway  https://www.3dnanoscopy.com/successful-workshop/  
+
+Advanced Optical Technologies for Label-free Analysis of Microstructure and Biochemistry in IBD Tissues ex vivo and in vivo  Poster  _talks/Oxford2019  The IBD: From Pathophysiology to Personalized Medicine Symposium  2019-03-30  Examination Schools, Oxford, UK  https://www.expmedndm.ox.ac.uk/tgu/news-event/falk-foundation-symposium-29-30-mar-2019
+
+Raman Spectroscopy and Multiphoton Microscopy for Label-free Optical Diagnostics of Biological Tissue  Talk  _talks/SAOT2019  International Conference on Advanced Optical Technologies  2019-03-15  Erlangen, Germany  https://www.saot.fau.de/events_saot/archive/international-conference/  
+
+On the Integration of Raman Spectroscopy to Multiphoton Endomicroscopy for Label-free Optical Diagnostics of Colon Cancer   Poster  _talks/Cambridge_2017  Sensors Day 2017  2017-10-20  University of Cambridge, UK  https://cdt.sensors.cam.ac.uk/events/past-events-1/sensors-cdt-showcase  
