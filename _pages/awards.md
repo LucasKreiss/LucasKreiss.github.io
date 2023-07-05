@@ -11,10 +11,10 @@ redirect_from:
 
 ## Awarded grants
 
-| :----------- | :------------ | :------------ |
-| *02/2023*     |   **EU HORIZON Marie Skłodowska-Curie Actions Global Fellowship** (MSCA-2022-PF)     |    192,125€ for 2 years, 100% total score for project proposal, 17.5% overall acceptance rate of the call  |
-| *02/2023*     |   **DFG Walter-Benjamin Fellowship** (approved for funding but not claimed) |    153,500€ for 2 years |
-| *07/2021*     |   **Emerging Talents Initiative** (ETI)     |    15,000€ for 1 year  |
+| :----------- | :------------ | :------------ | :------------ |
+| *02/2023*     |   **Marie Skłodowska-Curie Actions Global Fellowship** (MSCA-2022-PF)     |   EU HORIZON 2022     |    192,125€ for 2 years, 100% total score for project proposal, 17.5% overall acceptance rate of the call  |
+| *02/2023*     |   **Walter-Benjamin Fellowship** (approved for funding but not claimed) |  Deutsche Forschungsgesellschaft (DFG)    |      153,500€ for 2 years |
+| *07/2021*     |   **Emerging Talents Initiative** (ETI)     |   Friedrich-Alexander University (FAU) Erlangen-Nürnberg    |     15,000€ for 1 year  |
 
 
 ### Awards
