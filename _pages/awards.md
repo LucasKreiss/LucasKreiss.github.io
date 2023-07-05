@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Awards and Grants"
+title: "Third-party funding and Awards"
 permalink: /awards/
 author_profile: true
 redirect_from:
