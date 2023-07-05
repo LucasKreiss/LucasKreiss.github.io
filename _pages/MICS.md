@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /the MICS project/
+permalink: /MICS/
 author_profile: true
 redirect_from:
   - /resume
