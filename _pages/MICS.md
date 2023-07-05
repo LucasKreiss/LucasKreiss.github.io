@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+
+{% include base_path %}
+
 This page is dedicated to the project Multiphoton Imaging with Computational Specificity (MICS).
 
 
