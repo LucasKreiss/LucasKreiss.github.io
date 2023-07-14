@@ -28,16 +28,10 @@ Most often, we used **Multiphoton Microscopy** to investigate tissue samples. In
 
 **Label-free Multiphoton Microscopy** uses the signal (TPF and SHG) from natrually occuring molecules, like collagen, NADH and FAD. Thus, staining with artificial markers is not required to image most aspects of the 3D tissue structure. We then speak of autofluorescence, rather than fluorescence, to make the distinction to conventional fluorescence markers. 
 
-<br/><video src='/images/cleared_MPM_Video.mp4' style="width:600px">
-
-To increase the optical penetration depth even further, biological specimen can be optically cleared. Thereby, the samples are basically soaked in a medium until the refractive index is more uniform and the sample becomes more transparent. This allows to image the entire colon, from the outside wall until the inside lumen. Using the motion of the sample stage and simple grid-based image stitching, we can then reconstruct large 3D volumes of the entire colon at cellular resolution.
-
-
 We have applied this approach to image several different experimental colitis models and identified distinct differences between those models. Read the full publication [here](https://doi.org/10.1093/ibd/izac114).
 Furthermore, we investigated the autofluorescence signatures in the most important immune cells for IBD. Read that publication [here](https://doi.org/10.3390/ijms23042338). 
 In collaboration with Angelika SChmalzl from AG Stürtzl, we used it to find bacteria, that express a fluorescent marker in tissue samples with colitis, as you can read [here](https://doi.org/10.1038/s41467-022-33326-5). 
 AG Zundler helped us to find labelled macrophages in [mucosal wound healing studies](https://doi.org/10.1002/ctm2.1233).
-Our clearing protocol for Multiphoton Imaging is described [here](https://doi.org/10.7150%2Fthno.51558). 
 Besides IBD, we also used MPM to identify tumor growth in an experimental tissue model, together with AG Schneider-Stock, as described [here](https://doi.org/10.3390/cancers14102364).
 
 ## Multiphoton ENDO-Microscopy for in vivo imaging of 3D tissue structure
@@ -54,6 +48,10 @@ All technical details about this device are described [here](https://doi.org/10.
 We later upgraded the device by two additional detection channels and applied to two different murine colitis models (see [DOI](https://doi.org/10.1053/j.gastro.2020.05.081)).
 Currently we are working on experimental studies to use MPEM for finding labelled immune cells in colitis models and to measure leakyness in blood vessels during IBD.
 
+## Optical clearing
+<br/><video src='/images/cleared_MPM_Video.mp4' style="width:600px">
+
+To increase the optical penetration depth even further, biological specimen can be optically cleared. Thereby, the samples are basically soaked in a medium until the refractive index is more uniform and the sample becomes more transparent. This allows to image the entire colon, from the outside wall until the inside lumen. Using the motion of the sample stage and simple grid-based image stitching, we can then reconstruct large 3D volumes of the entire colon at cellular resolution. Our clearing protocol for Multiphoton Imaging is described [here](https://doi.org/10.7150%2Fthno.51558). 
 
 
 ## CURRENTLY UNDER CONSTRUCTION !
