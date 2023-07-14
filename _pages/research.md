@@ -64,6 +64,9 @@ DRS and Raman of human hip biopsies: [DOI](https://doi.org/10.1016/j.snb.2019.12
 
 Identification of reactive species upon treatment with a potential cancer treatment: [DOI](https://doi.org/10.3390/ijms22073757))
 
+
+<br/><img src='/images/MPM_Raman.png' style="width:500px">
+
 Raman and MPM: [DOI](https://doi.org/10.1002/jbio.202200073)
 
 ## Diffuse Correlation Spectroscopy
