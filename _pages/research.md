@@ -14,8 +14,6 @@ My research interests revolve around label-free optical technologies, focusing o
 You can find a complete list of my articles on [Google Scholar](https://scholar.google.com/citations?user=N4eY0x0AAAAJ&hl=en) or on my [Research Gate profile](https://www.researchgate.net/profile/Lucas-Kreiss). A list of my conference presentations is linked [here](https://lucaskreiss.github.io//talks/).
 
 
-! CURRENTLY UNDER CONSTRUCTION !
-
 ## Label-free Multiphoton Microscopy for Inflammatory Bowel Diseases (IBD)
 
 <br/><img src='/images/IBD.png' style="width:500px">
@@ -55,6 +53,10 @@ A direct comparision of label-free MPEM images from the living specimen with lab
 All technical details about this device are described [here](https://doi.org/10.1002/advs.201801735). 
 We later upgraded the device by two additional detection channels and applied to two different murine colitis models (see [DOI](https://doi.org/10.1053/j.gastro.2020.05.081)).
 Currently we are working on experimental studies to use MPEM for finding labelled immune cells in colitis models and to measure leakyness in blood vessels during IBD.
+
+
+
+##! CURRENTLY UNDER CONSTRUCTION !
 
 ## Raman Spectroscopy
 
