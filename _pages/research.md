@@ -36,7 +36,7 @@ Besides IBD, we also used MPM to identify tumor growth in an experimental tissue
 
 ## Multiphoton ENDO-Microscopy for in vivo imaging of 3D tissue structure
 
-<br/><img src='/images/MPEM.png' style="width:600px">
+<br/><img src='/images/MPEM.PNG' style="width:600px">
 
 In the team at the Institute of Medical Biotechnology, we developed a new endoscopic system of this Multiphoton Microscope, which we call **Multiphoton Endomicroscope (MPEM)**. The device has a gradient index (GRIN) objetive lens, which acts as rigit endoscope for animals. It has a field of view of 290x290µm², an outer diameter of 1.2 mm and a length of 2 cm. This device allows us to get 3D images of the untreated colon tissue, **from a living animal and without acquiring biopsies**. 
 
