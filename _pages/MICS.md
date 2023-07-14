@@ -16,4 +16,6 @@ This page is dedicated to the project Multiphoton Imaging with Computational Spe
 
 
 ________________________
-This project has received funding from the European Union’s Horizon 2022 Marie Skłodowska-Curie Action under grant agreements 101103200 (project MICS).
+This project has received funding from the European Union’s Horizon 2022 Marie Skłodowska-Curie Action under grant agreements 101103200 (project MICS). Views and opinions expressed are however those of the author(s) only
+and do not necessarily reflect those of the European Union. Neither
+the European Union nor the granting authority can be held responsible for them.
