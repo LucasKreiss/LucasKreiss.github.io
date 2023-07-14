@@ -20,7 +20,7 @@ You can find a complete list of my articles on [Google Scholar](https://scholar.
 
 **Inflammatory Bowel Diseases (IBD)** are triggered by the vicious circle of epithelial tissue damage, infiltration of harmful bacteria and an overly active immune system, which induces further colleratal damage to the tissue, while fighting the bacteria. Together with partners from the Collaborative Research Center “Immune-Epithelial Communication in Inflammatory Bowel Diseases” (TRR241), I investigated many different aspects of this group of diseases. 
 
-<br/><img src='/images/MPM_Bascis.png' style="width:600px">
+<br/><img src='/images/MPM_Bascis.png' style="width:700px">
 
 Most often, we used **Multiphoton Microscopy** to investigate tissue samples. In this technique, high-power ultra-short pulsed lasers are used to excite nonlinear two photon fluorescence (TPF) and Second Harmonic Generation (SHG). Due to their nonlinear nature, both signals are only generated at high photon density, therefore the technique is naturally confocal. The infrared light of the laser ensures a large optical penetration depth. Thus, the technique is ideal for 3D tissue imaging.
 
@@ -46,7 +46,7 @@ Besides IBD, we also used MPM to identify tumor growth in an experimental tissue
 
 In the team at the Institute of Medical Biotechnology, we developed a new endoscopic system of this Multiphoton Microscope, which we call **Multiphoton Endomicroscope (MPEM)**. The device has a gradient index (GRIN) objetive lens, which acts as rigit endoscope for animals. It has a field of view of 290x290µm², an outer diameter of 1.2 mm and a length of 2 cm. This device allows us to get 3D images of the untreated colon tissue, **from a living animal and without acquiring biopsies**. 
 
-<br/><img src='/images/MPEM_MPM_HE.png' style="width:600px">
+<br/><img src='/images/MPEM_MPM_HE.png' style="width:700px">
 
 A direct comparision of label-free MPEM images from the living specimen with label-free MPM images and conventional H\&E images of acqiuired tissue samples, shows how well the results match. Although the image quality is slighty worse compared to the clean conditions of extracted samples, this system quickly became our working horse.
 
