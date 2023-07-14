@@ -20,7 +20,7 @@ You can find a complete list of my articles on [Google Scholar](https://scholar.
 
 **Inflammatory Bowel Diseases (IBD)** are triggered by the vicious circle of epithelial tissue damage, infiltration of harmful bacteria and an overly active immune system, which induces further colleratal damage to the tissue, while fighting the bacteria. Together with partners from the Collaborative Research Center “Immune-Epithelial Communication in Inflammatory Bowel Diseases” (TRR241), I investigated many different aspects of this group of diseases. 
 
-<br/><img src='/images/MPM_Basics.png' style="width:500px">
+<br/><img src='/images/MPM_Bascis.png' style="width:500px">
 
 Most often, we used **Multiphoton Microscopy** to investigate tissue samples. In this technique, high-power ultra-short pulsed lasers are used to excite nonlinear two photon fluorescence (TPF) and Second Harmonic Generation (SHG). Due to their nonlinear nature, both signals are only generated at high photon density, therefore the technique is naturally confocal. The infrared light of the laser ensures a large optical penetration depth. Thus, the technique is ideal for 3D tissue imaging.
 
