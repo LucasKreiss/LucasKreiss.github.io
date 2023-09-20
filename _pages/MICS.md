@@ -12,20 +12,26 @@ redirect_from:
 This page is dedicated to the project Multiphoton Imaging with Computational Specificity (MICS).
 
 Conventional tissue classification:
+
 <i class="fa-solid fa-lungs fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-check fa-xl" style="color: #008000;"></i>
 
 <i class="fa-solid fa-lungs-virus fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-x fa-xl" style="color: #800040;"></i>
 
   
 AI-based tissue classification:
+
 <i class="fa-solid fa-lungs fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microchip fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-check fa-xl" style="color: #008000;"></i>
 
 <i class="fa-solid fa-lungs-virus fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microchip fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-x fa-xl" style="color: #800040;"></i>
 
+
+
 Conventional staining: 
+
 <i class="fa-solid fa-bacteria fa-2xl"></i> + <i class="fa-solid fa-flask-vial fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-bacteria fa-2xl" style="color: #00ff00;"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microscope fa-2xl"></i> 
 
 Digital staining: 
+
 <i class="fa-solid fa-bacteria fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microchip fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-bacteria fa-2xl" style="color: #00ff00;"></i>
 
 ________________________
