@@ -12,6 +12,10 @@ redirect_from:
 This page is dedicated to the project Multiphoton Imaging with Computational Specificity (MICS).
 
 <i class="fa-solid fa-user"></i>
+<i class="fa-regular fa-user"></i>
+<i class="fa-light fa-user"></i>
+<i class="fa-thin fa-user"></i>
+<i class="fa-duotone fa-user"></i>
 
 
 
