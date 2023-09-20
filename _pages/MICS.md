@@ -11,7 +11,13 @@ redirect_from:
 
 This page is dedicated to the project Multiphoton Imaging with Computational Specificity (MICS).
 
-<i class="fa-solid fa-microscope"></i> + <i class="fa-solid fa-microchip"></i> / <i class="fa-solid fa-computer"></i>
+Digital staining: 
+<i class="fa-solid fa-bacteria fa-2xl"></i> + <i class="fa-solid fa-flask-vial fa-2xl"></i> --> <i class="fa-solid fa-bacteria fa-2xl" style="color: #00ff00;"></i> --> <i class="fa-solid fa-microscope fa-2xl"></i> --> <i class="fa-solid fa-user-doctor fa-2xl"></i> 
+
+<i class="fa-solid fa-bacteria fa-2xl"></i> --> <i class="fa-solid fa-microscope fa-2xl"></i> --> <i class="fa-solid fa-microchip fa-2xl"></i> 
+
+Tissue classification:
+<i class="fa-solid fa-bacteria fa-2xl"></i> + <i class="fa-solid fa-flask-vial fa-2xl"></i>--> <i class="fa-solid fa-microscope fa-2xl"></i> --> <i class="fa-solid fa-user-doctor fa-2xl"></i> 
 
 
 
