@@ -23,6 +23,8 @@ Tissue classification:
 
 <i class="fa-solid fa-lungs-virus fa-2xl"></i> -->  <i class="fa-solid fa-microscope fa-2xl"></i> --> <i class="fa-solid fa-user-doctor fa-2xl"></i>  --> <i class="fa-solid fa-x fa-xl" style="color: #800040;"></i>
 
+
+
 <i class="fa-solid fa-lungs fa-2xl"></i> -->  <i class="fa-solid fa-microscope fa-2xl"></i> --> <i class="fa-solid fa-microchip fa-2xl"></i>  --> <i class="fa-solid fa-check fa-xl" style="color: #008000;"></i>
 
 <i class="fa-solid fa-lungs-virus fa-2xl"></i> -->  <i class="fa-solid fa-microscope fa-2xl"></i> --> <i class="fa-solid fa-microchip fa-2xl"></i>  --> <i class="fa-solid fa-x fa-xl" style="color: #800040;"></i>
