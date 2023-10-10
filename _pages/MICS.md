@@ -15,14 +15,14 @@ redirect_from:
  
 An intuitive, visual display of these concepts is shown below.
 
-Conventional tissue classification by trained pathologists:
+# Conventional tissue classification by trained pathologists:
  
 <i class="fa-solid fa-lungs fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-check fa-xl" style="color: #008000;"></i>
  
 <i class="fa-solid fa-lungs-virus fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-x fa-xl" style="color: #800040;"></i>
 
   
-AI-based tissue classification:
+# AI-based tissue classification:
  
 <i class="fa-solid fa-lungs fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microchip fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-check fa-xl" style="color: #008000;"></i>
  
@@ -30,11 +30,11 @@ AI-based tissue classification:
 
 
 
-Conventional anti-body staining: 
+# Conventional anti-body staining: 
  
 <i class="fa-solid fa-bacteria fa-2xl"></i> + <i class="fa-solid fa-flask-vial fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-bacteria fa-2xl" style="color: #00ff00;"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microscope fa-2xl"></i> 
  
-Digital staining: 
+# Digital staining: 
  
 <i class="fa-solid fa-bacteria fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microchip fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-bacteria fa-2xl" style="color: #00ff00;"></i>
 
@@ -42,9 +42,11 @@ Digital staining:
  
 ## Latest updates: 
  
-October 2023: We are happy that our review on digital staining in optical microscopy has been accepted for publication in the journal 'PhotoniX'. It is the first publication that was fully supported by this Marie Skłodowska-Curie Actions programme for the MICS project. The link to the full article is coming soon! 
+# October 2023: 
+We are happy that our review on digital staining in optical microscopy has been accepted for publication in the journal 'PhotoniX'. It is the first publication that was fully supported by this Marie Skłodowska-Curie Actions programme for the MICS project. The link to the full article is coming soon! 
  
-August 2023: The novel Self-Enhancing Multi-Photon Artificial Intelligence (SEMPAI) has been published by collaborators of this MICS project. Check it out [here](https://doi.org/10.1002/advs.202206319)!
+# August 2023: 
+The novel Self-Enhancing Multi-Photon Artificial Intelligence (SEMPAI) has been published by collaborators of this MICS project. Check it out [here](https://doi.org/10.1002/advs.202206319)!
 
   
 ________________________
