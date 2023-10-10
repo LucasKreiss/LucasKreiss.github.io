@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-# Multiphoton Imaging with Computational Specificity (MICS): AI tools for detecting inflammation in multiphoton imaging
+# Multiphoton Imaging with Computational Specificity (MICS): 
+# AI tools for detecting inflammation in multiphoton imaging
 
 "Staining tissues enhances visualisation and helps scientists identify potential pathologies. Thereby, biochemical contrast agents bind to target molecules, which provides the desired specificity. Label-free multiphoton microscopy on the other hand, is a powerful imaging technique to generate high-resolution, 3D images in living tissue without use of stains or dyes. Modern AI tools can link the information in these label-free images to a given type of cell or tissue to generate computational specificity. With the support of the Marie Skłodowska-Curie Actions programme, the MICS project will develop such AI tools for digital staining of immune cells and automated classification of mucosal inflammation in multiphoton microscopy images. This will allow direct investigation of specific immune cell localisation and global tissue alteration." (cited from the Project Description of the [EU page of this project](https://doi.org/10.3030/101103200) ).
  
