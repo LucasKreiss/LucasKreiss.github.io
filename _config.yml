@@ -84,7 +84,7 @@ author:
   avatar           : "soooo_klein.png"
   bio              : "Marie Skłodowska-Curie Post-Doctoral Fellow"
   location         : "Duke University"
-  #employer         :
+  employer         : "https://doi.org/10.3030/101103200"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=N4eY0x0AAAAJ&hl=en"
   email            :  "lucas.kreiss@duke.edu"
