@@ -18,9 +18,9 @@ An intuitive, visual display of these concepts is shown below.
 
 ## Conventional tissue classification by trained pathologists:
  
-<i class="fa-solid fa-lungs fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-check fa-xl" style="color: #008000;"></i>
+<i class="fa-solid fa-lungs fa-2xl"></i>  + <i class="fa-solid fa-flask-vial fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-check fa-xl" style="color: #008000;"></i>
  
-<i class="fa-solid fa-lungs-virus fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-x fa-xl" style="color: #800040;"></i>
+<i class="fa-solid fa-lungs-virus fa-2xl"></i>  + <i class="fa-solid fa-flask-vial fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i>  <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-user-doctor fa-2xl"></i>  <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-x fa-xl" style="color: #800040;"></i>
 
   
 ## AI-based tissue classification:
