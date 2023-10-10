@@ -46,10 +46,10 @@ An intuitive, visual display of the concepts of AI-supported diagnosis and digit
 # Latest updates: 
  
 ## October 2023: 
-We are happy that our review on digital staining in optical microscopy has been accepted for publication in the journal 'PhotoniX'. It is a great read, if you want to know more about digital staining and how it is used for the state-of-the-art for optical microscopy. It is also the first publication that was fully supported by this Marie Skłodowska-Curie Actions programme for the MICS project. The link to the full article is coming soon! 
+We are happy that our review on digital staining in optical microscopy has been accepted for publication in the journal 'PhotoniX'. It is a great read, if you want to know more about digital staining and how it is used for the state-of-the-art for optical microscopy. It is also the first publication that was fully supported by this Marie Skłodowska-Curie Actions programme for the MICS project. The link to the full article is [here](https://doi.org/10.1186/s43074-023-00113-4)! 
  
 ## August 2023: 
-The novel Self-Enhancing Multi-Photon Artificial Intelligence (SEMPAI), from collaborators of this MICS project, has been published in 'Advanced Science' . Check it out [here](https://doi.org/10.1002/advs.202206319)!
+The novel Self-Enhancing Multi-Photon Artificial Intelligence (SEMPAI), from collaborators of this MICS project, has been published in 'Advanced Science'. Check it out [here](https://doi.org/10.1002/advs.202206319)!
 
   
 ## ________________________________________________
