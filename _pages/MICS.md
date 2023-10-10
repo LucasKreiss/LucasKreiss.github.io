@@ -41,7 +41,7 @@ An intuitive, visual display of the concepts of AI-supported diagnosis and digit
 <i class="fa-solid fa-bacteria fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microscope fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-microchip fa-2xl"></i> <i class="fa-solid fa-arrow-right"></i> <i class="fa-solid fa-bacteria fa-2xl" style="color: #00ff00;"></i>
  
  
-
+ 
    
 # Latest updates: 
  
