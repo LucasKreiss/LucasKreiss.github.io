@@ -40,7 +40,7 @@ Digital staining:
 
  
  
-Latest updates: 
+## Latest updates: 
  
 October 2023: We are happy that our review on digital staining in optical microscopy has been accepted for publication in the journal 'PhotoniX'. It is the first publication that was fully supported by this Marie Skłodowska-Curie Actions programme for the MICS project. The link to the full article is coming soon! 
  
@@ -49,6 +49,6 @@ August 2023: The novel Self-Enhancing Multi-Photon Artificial Intelligence (SEMP
   
 ________________________
 
-<br/><img src='/images/Flag_of_Europe.svg' style="width:150px">
+<br/><img src='/images/EU_flag.jpg' style="width:150px">
 
 This project has received funding from the European Union’s Horizon 2022 Marie Skłodowska-Curie Action under grant agreements 101103200 (project MICS). Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union. Neither the European Union nor the granting authority can be held responsible for them.
