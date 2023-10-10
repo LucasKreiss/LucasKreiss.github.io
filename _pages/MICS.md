@@ -50,7 +50,7 @@ We are happy that our review on digital staining in optical microscopy has been 
 The novel Self-Enhancing Multi-Photon Artificial Intelligence (SEMPAI) from collaborators of this MICS project, has been published in 'Advanced Science' . Check it out [here](https://doi.org/10.1002/advs.202206319)!
 
   
-________________________
+## ________________________
 
 <br/><img src='/images/EU_flag.jpg' style="width:150px">
 
