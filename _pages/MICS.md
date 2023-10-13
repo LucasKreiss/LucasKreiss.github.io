@@ -13,11 +13,12 @@ redirect_from:
 
 ## About this Project
 
-<br/><img src='/images/World_map_MICS.png' style="width:150px">
+<br/><img src='/images/World_map_MICS.png' style="width:450px">
+ 
 This project is funded by a Global fellowship of EU HORIZON 2022's Marie Skłodowska-Curie Actions programme. It is an international and interdisciplinary collaboration between the Friedrich-Alexander University (FAU) in Erlangen, Germany and the Duke University in Durham, North Carolina, USA.
 
 
-  # Latest updates: 
+# Latest updates: 
  
 ## October 2023: 
 We are happy that our review on digital staining in optical microscopy has been accepted for publication in the journal 'PhotoniX'. It is a great read, if you want to know more about digital staining and how it is used for the state-of-the-art for optical microscopy. It is also the first publication that was fully supported by this Marie Skłodowska-Curie Actions programme for the MICS project. The link to the full article is [here](https://doi.org/10.1186/s43074-023-00113-4)! 
