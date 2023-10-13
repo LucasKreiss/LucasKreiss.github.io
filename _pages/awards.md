@@ -27,5 +27,5 @@ redirect_from:
 | *06/2021*     |   **Best Poster Presentation**     |     Vision 2030 - Changing Paradigms in IBD; 500€  |
 | *07/2020*     |   **SAOT Student Award 2020**     |    Best publication in 'Optics in Medicine'; 1,000€ shared with A. Dilipkumar |
 | *06/2020*     |   **Best Poster Presentation**     |    iRTG Retreat 2020; 100€  |
-| *02/2020*     |   **Best Poster Presentation**     |    Next-Gen. Live-Cell Microscopy, UiT, Norway  |
+| *02/2020*     |   **Best Poster Presentation**     |    Next-Geneneration Live-Cell Microscopy, UiT, Norway  |
 
