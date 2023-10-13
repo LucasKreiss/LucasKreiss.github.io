@@ -42,7 +42,7 @@ In the team at the Institute of Medical Biotechnology, we developed a new endosc
 
 <br/><img src='/images/MPEM_MPM_HE.png' style="width:900px">
 
-A direct comparision of label-free MPEM images from the living specimen with label-free MPM images and conventional H\&E images of acqiuired tissue samples, shows how well the results match. Although the image quality is slighty worse compared to the clean conditions of extracted samples, this system quickly became our working horse.
+A direct comparision of label-free MPEM images from the living specimen with label-free MPM images and conventional H&E images of acqiuired tissue samples, shows how well the results match. Although the image quality is slighty worse compared to the clean conditions of extracted samples, this system quickly became our working horse.
 
 All technical details about this device are described [here](https://doi.org/10.1002/advs.201801735). 
 We later upgraded the device by two additional detection channels and applied to two different murine colitis models (see [DOI](https://doi.org/10.1053/j.gastro.2020.05.081)).
