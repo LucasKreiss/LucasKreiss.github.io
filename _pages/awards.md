@@ -12,9 +12,9 @@ redirect_from:
 ## Awarded grants
 
 | :----------- | :------------ | :------------ | :------------ |
-| *10/2023*     |   **Project-Related Personal Exchange** (PPP)     |   Deutscher Akademischer Austauschdienst (DAAD)     |    Mobility grant: 29,083€ for 2 years  |
+| *10/2023*     |   **Project-Related Personal Exchange** (PPP)     |   Deutscher Akademischer Austauschdienst (DAAD) / German Academic Exchange Service    |    Mobility grant: 29,083€ for 2 years  |
 | *02/2023*     |   **Marie Skłodowska-Curie Actions Global Fellowship** (MSCA-2022-PF)     |   EU HORIZON 2022     |    Research fellowship: 192,125€ for 2 years, 100% total score for project proposal, 17.5% overall acceptance rate of the call  |
-| *02/2023*     |   **Walter-Benjamin Fellowship** (approved for funding but not claimed) |  Deutsche Forschungsgesellschaft (DFG)    |      Research fellowship: 153,500€ for 2 years |
+| *02/2023*     |   **Walter-Benjamin Fellowship** (approved for funding but not claimed) |  Deutsche Forschungsgesellschaft (DFG) / German Research Foundation   |      Research fellowship: 153,500€ for 2 years |
 | *07/2021*     |   **Emerging Talents Initiative** (ETI)     |   Friedrich-Alexander University (FAU) Erlangen-Nürnberg    |     Research fellowship: 15,000€ for 1 year  |
 
 
