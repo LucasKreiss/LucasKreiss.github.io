@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /News/
 title: "News"
 excerpt: "News"
 author_profile: true
