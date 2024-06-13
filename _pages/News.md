@@ -11,7 +11,7 @@ redirect_from:
 # Latest updates: 
 
 ## June 2024: 
-I had the great opportunity to present our work on Computational Specificity for Label-free Imaging in a selected talk at last week's [Hashtag#dukeaiday](https://dukeai.day/). It was great to receive such positive feedback and discuss with you all at my Poster afterwards!
+I had the great opportunity to present our work on Computational Specificity for Label-free Imaging in a selected talk at last week's [Duke AI Day](https://dukeai.day/). It was great to receive such positive feedback and discuss with you all at my Poster afterwards!
 <br/><img src='/images/DukeAIDay_poster.PNG' style="width:550px">
 
 ## Januar 2024: 
