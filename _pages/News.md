@@ -2,6 +2,7 @@
 
 ## June 2024: 
 I had the great opportunity to present our work on Computational Specificity for Label-free Imaging in a selected talk at last week's [Hashtag#dukeaiday](https://dukeai.day/). It was great to receive such positive feedback and discuss with you all at my Poster afterwards!
+<br/><img src='/images/DukeAIDay_poster.png' style="width:550px">
 
 ## Januar 2024: 
 Happy to have presented the first results of the MICS Project at this years's SPIE Photonics West 2024. Hopefully it will be the stepping stone towards an application of label-free imaging and deep learning in research on inflammation. A short version of that talk can be viewed [here!](https://www.youtube.com/watch?v=vQGPr9gr9TY) 
