@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "News"
+excerpt: "News"
+author_profile: true
+redirect_from: 
+  - /News/
+  - /News.html
+---
+
 # Latest updates: 
 
 ## June 2024: 
