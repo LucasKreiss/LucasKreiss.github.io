@@ -1,11 +1,10 @@
 ---
+layout: archive
+title: ""
 permalink: /News/
-title: "News"
-excerpt: "News"
 author_profile: true
-redirect_from: 
-  - /News/
-  - /News.html
+redirect_from:
+  - /resume
 ---
 
 # Latest updates: 
