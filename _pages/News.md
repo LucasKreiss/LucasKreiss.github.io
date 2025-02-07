@@ -11,7 +11,7 @@ redirect_from:
 
 
 ## Januar 2025: 
-Back at SPIE Photonics West, back in SF. This time, I followed up on last year's talk and presented the latest updated on the [MICS project](https://lucaskreiss.github.io//MICS/) in my talk with the title 'Classification of inflammatory tissue remodeling in murine colitis using label-free multiphoton microscopy and a 3D convolutional neural network'. Again, I also uploaded a short video version of that talk [here!](https://www.youtube.com/watch?v=vQGPr9gr9TY) 
+Back at SPIE Photonics West, back in SF. This time, I followed up on last year's talk and presented the latest updated on the [MICS project](https://lucaskreiss.github.io//MICS/) in my talk 'Classification of inflammatory tissue remodeling in murine colitis using label-free multiphoton microscopy and a 3D convolutional neural network'. Again, I uploaded a short video version of that talk [here!](https://www.youtube.com/watch?v=vQGPr9gr9TY) 
 <br/><img src='/images/2025_PW25_Foto_of_talk.jpg' style="width:550px">
 
 ## August 2024: 
