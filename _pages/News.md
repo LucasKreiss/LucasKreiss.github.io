@@ -15,7 +15,7 @@ Back at SPIE Photonics West, back in SF. This time, I followed up on last year's
 <br/><img src='/images/2025_PW25_Foto_of_talk.jpg' style="width:550px">
 
 ## August 2024: 
-In late August, UC Davis' brand-new Assistant Professor [Alba Alfonso-Garcia](https://bme.ucdavis.edu/people/alba-alfonso-garcia) invited me to give a talk on 'Label-free Multiphoton Imaging for Inflammatory Bowel Diseases' at the Biophotonics Seminar. Thanks for having me, Alba! It was great to discuss and catch up.
+In late August, UC Davis' brand-new Assistant Professor [Alba Alfonso Garcia](https://bme.ucdavis.edu/people/alba-alfonso-garcia) invited me to give a talk on 'Label-free Multiphoton Imaging for Inflammatory Bowel Diseases' at the Biophotonics Seminar. Thanks for having me, Alba! It was great to discuss and catch up.
 
 The timing was also great, since I took the train from Davis down to SF just a few days later to attend the [GAIN24](https://gain24.converve.io/), which is the annual conference and talent fair of the German Academic International Networkthe German Academic International Network.
 
