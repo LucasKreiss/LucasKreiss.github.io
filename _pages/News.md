@@ -12,11 +12,11 @@ redirect_from:
 ## March 2026:
 Exciting news — our latest paper has been accepted for publication in the Journal of Biophotonics! Check out this Graphic Abstract:
 [DOI to the full paper will follow soon]()
-<br/><img src='/images/Graphical_Abstract_Kreiss2025' style="width:550px">
+<br/><img src='/images/Graphical_Abstract_Kreiss2025.png' style="width:550px">
 
 ## February 2026:
 Earlier this year, I had the opportunity to present at the [Cologne AI Days](https://cds.uni-koeln.de/en/workshops/ai-days), hosted by the Cologne Data Science community. It was a stimulating event bringing together researchers from across disciplines. It was a wonderful setting to share our work on AI-assisted label-free imaging and connect with the broader machine learning community.
-<br/><img src='/images/Cologne_AI_days' style="width:550px">
+<br/><img src='/images/Cologne_AI_days.jpg' style="width:550px">
 
 ## June 2025:
 I joined the [Humboldt Center for Nano- and Biophotonics](https://gatherlab.uni-koeln.de/) as a part-time researcher. Did you know you could integrate microlasers into living cells? I love learning about this fascinating topic, while contributing my expertise in in vivo Biophotonics and Computational Optics. Excited to see where this collaboration leads!
