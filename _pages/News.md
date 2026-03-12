@@ -9,6 +9,22 @@ redirect_from:
 
 # Latest updates: 
 
+## March 2026:
+Exciting news — our latest paper has been accepted for publication in the Journal of Biophotonics! Check out this Graphic Abstract:
+[DOI to the full paper will follow soon]()
+<br/><img src='/images/Graphical_Abstract_Kreiss2025' style="width:550px">
+
+## February 2026:
+Earlier this year, I had the opportunity to present at the [Cologne AI Days](https://cds.uni-koeln.de/en/workshops/ai-days), hosted by the Cologne Data Science community. It was a stimulating event bringing together researchers from across disciplines. It was a wonderful setting to share our work on AI-assisted label-free imaging and connect with the broader machine learning community.
+<br/><img src='/images/Cologne_AI_days' style="width:550px">
+
+## June 2025:
+I joined the [Humboldt Center for Nano- and Biophotonics](https://gatherlab.uni-koeln.de/) as a part-time researcher. Did you know you could integrate microlasers into living cells? I love learning about this fascinating topic, while contributing my expertise in in vivo Biophotonics and Computational Optics. Excited to see where this collaboration leads!
+
+## May 2025: 
+I had the pleasure of presenting our work as an [ePoster at Digestive Disease Week 2025](https://eposters.ddw.org/ddw/2025/ddw-2025/4152883/lucas.krei.towards.ai-assisted.all-optical.assessment.of.ibd.classification.of.html?f=listing%3D0%2Abrowseby%3D8%2Asortby%3D2%2Asearch%3Dmicroscopic), one of the largest gatherings in gastroenterology. The poster covered our latest progress towards AI-assisted, all-optical assessment of IBD classification — a great opportunity to connect with the clinical community and share how label-free imaging and deep learning can contribute to inflammatory bowel disease research. The abstract is also available [here](https://doi.org/10.1016/S0016-5085(25)04614-1).
+
+I also attended the [SLAS Europe 2025](https://www.slas.org/events-calendar/slas-europe-2025-conference-and-exhibition/) in Hamburg, Germany, where I presented our work as a poster. It was a great chance to engage with the laboratory automation and screening community and explore how label-free imaging and AI-based analysis can fit into high-throughput research workflows.
 
 ## Januar 2025: 
 Back at SPIE Photonics West, back in SF. This time, I followed up on last year's talk and presented the latest updated on the [MICS project](https://lucaskreiss.github.io//MICS/) in my talk 'Classification of inflammatory tissue remodeling in murine colitis using label-free multiphoton microscopy and a 3D convolutional neural network'. Again, I uploaded a short video version of that talk [here!](https://www.youtube.com/watch?v=vQGPr9gr9TY) 
